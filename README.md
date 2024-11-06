@@ -1,2 +1,2 @@
 # SCGQR
-Saint George Capital risk project under Victor Hau
+Saint George Capital risk metric project under Victor Hau
