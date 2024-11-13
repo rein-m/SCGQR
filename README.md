@@ -1,5 +1,5 @@
 # SCGQR
-Saint George Capital risk metric project under Victor Hau
+Saint George Capital risk metric project
 import pandas, numpy, and PyTorch
 matplotlib for plotting/graphing
 scikit-learn?
